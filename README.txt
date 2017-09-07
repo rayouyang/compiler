@@ -1,0 +1,1 @@
+This project was hard, like the hardest project I did in my college career. Feels good man most of it is working. Scopes were hard to get right. Some of the errors thrown might not be correct cbecause changing all the errors would cause another error thrown to be incorrect, but techinically either error thrown is correct. (this is refering to error 6 vs error 11).
